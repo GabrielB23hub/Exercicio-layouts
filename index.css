@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing:border-box;
+}
+
+div{
     display:flex;
     flex-direction: column;
+}
+a{
+    padding-top: 10px;
 }
