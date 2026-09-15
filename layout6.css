@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.tudo{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+
+.div1 {
+    background-color: lightpink;
+    height: 20%;
+    width: 100%;
+    display:flex;
+    justify-content: end;
+    align-items: end;
+
+
+}
+
+
+.div2 {
+    background-color: lightgreen;
+    height: 20%;
+    width: 100%;
+    display:flex;
+    justify-content: end;
+    align-items: center;
+}
+
+
+.div3{
+    background-color: rgb(245, 151, 151);
+    height: 20%;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.div4{
+    background-color: lightyellow;
+    height: 20%;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+
+.div5{
+    background-color: lightblue;
+    height: 20%;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.bola1,.bola2,.bola3,.bola4{
+   width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: plum;
+}
+
+
+.bola5,.bola6,.bola7,.bola8{
+   width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: greenyellow;
+}
+
+
+.bola9,.bola10,.bola11,.bola12{
+   width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: rgb(245, 94, 94);
+}
+
+
+.bola13,.bola14,.bola15,.bola16{
+   width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: rgb(221, 221, 104);
+}
+
+
+.bola17,.bola18,.bola19,.bola20{
+   width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: rgb(76, 176, 238);
+}
+
